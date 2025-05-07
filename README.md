@@ -20,7 +20,7 @@ practica para crear un repo
 1. Set up your table and code blocks.
 1. Perform this step.
 
-   ![screen](https://experienceleague.adobe.com/docs/contributor/assets/adobe_standard_logo.png?lang=es)
+   ![screen](https://github.com/NoeBiz/Practica7mayo/blob/main/logo.webp)
 
 1. Make sure that your table looks like this:
 
